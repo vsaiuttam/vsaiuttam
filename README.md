@@ -1,7 +1,7 @@
 # :wave: Hello <b>developers</b>, I am <b>Uttam</b>
 A self-taught geek developer and builder in full-stack web developmen and content-writer. I work in Javascript, with frontend and backend tools proficient in MERN stack, created various projects using these tools.
 # 💫About Me :
-- :seedling: I am currently learning DevOps and Fullstack.
+- :seedling: I am currently working on Fullstack and DSA.
 - :earth_africa:I like to Work on the New Trending Technologies
 - :v: I'm open to opportunities.
 
