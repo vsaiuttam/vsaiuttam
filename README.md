@@ -4,6 +4,7 @@ A self-taught geek developer and builder in full-stack web developmen and conten
 - :seedling: I am currently working on Fullstack and DSA.
 - :earth_africa:I like to Work on the New Trending Technologies
 - :v: I'm open to opportunities.
+- :seedling: I am also trying Devops 
 
 - ## 🌐Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiuttam-v/) 
